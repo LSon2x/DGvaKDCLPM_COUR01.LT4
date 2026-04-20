@@ -1,0 +1,26 @@
+# TEST CASE KHÔNG HỢP LỆ
+
+## Bài 1
+0,5 -> Error
+-1,3 -> Error
+
+## Bài 2
+-2,3 -> Error
+
+## Bài 3
+0,0,1 -> Vo nghiem
+
+## Bài 4
+13,2024 -> Error
+
+## Bài 5
+-5 -> Not Prime
+
+## Bài 6
+0 -> Error
+
+## Bài 7
+0,0 -> Error
+
+## Bài 8
+0 -> Error
