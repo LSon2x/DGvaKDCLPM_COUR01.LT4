@@ -1,2 +1,0 @@
-Đã chạy toàn bộ test case.
-Kết quả: PASS 100%
